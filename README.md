@@ -1,6 +1,6 @@
 # React router dom tutorial
 
-I followd the "React router dom tutorial" fron nedninja until lesson 8.
+I followed the "React router dom tutorial" from nedninja until lesson 8.
 
 ## What is this react app about?
 
